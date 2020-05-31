@@ -1,0 +1,9 @@
+		<dict>
+			<key>Processor</key>
+			<string>DeprecationWarning</string>
+			<key>Arguments</key>
+			<dict>
+				<key>warning_message</key>
+				<string>This recipe is no longer supported. Expect it to be removed at a future date.</string>
+			</dict>
+		</dict>

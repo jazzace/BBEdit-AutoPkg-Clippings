@@ -1,0 +1,11 @@
+		<dict>
+			<key>Processor</key>
+			<string>ProcessorName</string>
+			<key>Arguments</key>
+			<dict>
+				<key>Argument1</key>
+				<string>Value1</string>
+				<key>Argument2</key>
+				<string>Value2</string>
+			</dict>
+		</dict>
