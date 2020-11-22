@@ -1,0 +1,13 @@
+		<dict>
+			<key>Processor</key>
+			<string>Unarchiver</string>
+			<key>Arguments</key>
+			<dict>
+				<key>archive_path</key>
+				<string>%pathname%</string>
+				<key>destination_path</key>
+				<string>%RECIPE_CACHE_DIR%/Unarchived</string>
+				<key>purge_destination</key>
+				<true/>
+			</dict>
+		</dict>
