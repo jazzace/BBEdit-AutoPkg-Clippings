@@ -1,0 +1,14 @@
+		<dict>
+			<key>Processor</key>
+			<string>FileCreator</string>
+			<key>Arguments</key>
+			<dict>
+				<key>file_path</key>
+				<string>%RECIPE_CACHE_DIR%/%NAME%/path/to/file.txt</string>
+				<key>file_content</key>
+				<string>Line1
+Line2</string>
+				<key>file_mode</key>
+				<string>0755</string>
+			</dict>
+		</dict>
