@@ -1,0 +1,11 @@
+		<dict>
+			<key>Processor</key>
+			<string>GitHubReleasesInfoProvider</string>
+			<key>Arguments</key>
+			<dict>
+				<key>github_repo</key>
+				<string>githubrepo/project</string>
+				<key>include_prereleases</key>
+				<string>True</string> <!-- For False, delete the include_prereleases key/value pair entirely -->
+			</dict>
+		</dict>
