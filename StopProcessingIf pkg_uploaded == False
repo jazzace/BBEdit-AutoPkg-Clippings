@@ -1,0 +1,9 @@
+		<dict>
+			<key>Processor</key>
+			<string>StopProcessingIf</string>
+			<key>Arguments</key>
+			<dict>
+				<key>predicate</key>
+				<string>pkg_uploaded == False</string>
+			</dict>
+		</dict>
