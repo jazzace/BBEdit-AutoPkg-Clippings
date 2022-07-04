@@ -1,0 +1,11 @@
+		<dict>
+			<key>Processor</key>
+			<string>com.github.grahampugh.jamf-upload.processors/JamfComputerGroupUploader</string>
+			<key>Arguments</key>
+			<dict>
+				<key>computergroup_name</key>
+				<string>%GROUP_NAME%</string>
+				<key>computergroup_template</key>
+				<string>%GROUP_TEMPLATE%</string>
+			</dict>
+		</dict>

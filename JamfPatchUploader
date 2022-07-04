@@ -1,0 +1,15 @@
+		<dict>
+			<key>Processor</key>
+			<string>com.github.grahampugh.jamf-upload.processors/JamfPatchUploader</string>
+			<key>Arguments</key>
+			<dict>
+				<key>patch_name</key>
+				<string>%PATCH_POLICY_NAME%</string>
+				<key>patch_softwaretitle</key>
+				<string>%PATCH_SOFTWARE_TITLE%</string>
+				<key>patch_template</key>
+				<string>%PATCH_POLICY_TEMPLATE%</string>
+				<key>replace_patch</key>
+				<string>True</string>
+			</dict>
+		</dict>
