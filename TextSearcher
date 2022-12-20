@@ -1,0 +1,13 @@
+		<dict>
+			<key>Processor</key>
+			<string>com.github.jazzace.processors/TextSearcher</string>
+			<key>Arguments</key>
+			<dict>
+				<key>re_pattern</key>
+				<string>_([\d.]+)_</string>
+				<key>result_output_var_name</key>
+				<string>version</string>
+				<key>text_in</key>
+				<string>%pathname%</string>
+			</dict>
+		</dict>
