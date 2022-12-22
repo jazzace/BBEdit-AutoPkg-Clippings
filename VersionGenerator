@@ -1,0 +1,4 @@
+		<dict>
+			<key>Processor</key>
+			<string>com.github.jazzace.processors/VersionGenerator</string>
+		</dict>
