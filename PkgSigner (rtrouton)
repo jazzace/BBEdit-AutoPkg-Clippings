@@ -1,0 +1,11 @@
+         <dict>
+            <key>Processor</key>
+            <string>com.github.rtrouton.SharedProcessors/PkgSigner</string>
+            <key>Arguments</key>
+            <dict>
+               <key>pkg_path</key>
+               <string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
+               <key>signing_cert</key>
+               <string>%SIGNINGCERTIFICATE%</string>
+            </dict>
+         </dict>
