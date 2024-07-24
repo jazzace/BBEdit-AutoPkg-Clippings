@@ -1,0 +1,11 @@
+		<dict>
+			<key>Processor</key>
+			<string>URLDownloader</string>
+			<key>Arguments</key>
+			<dict>
+				<key>prefetch_filename</key>
+				<true/>
+				<key>url</key>
+				<string>https://www.betterbag.com/file2download.ext</string>
+			</dict>
+		</dict>
